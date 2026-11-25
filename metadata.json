@@ -1,0 +1,6 @@
+{
+  "name": "مِعمار المشاريع",
+  "description": "منصة متقدمة لتحليل مستودع Awesome AI Apps ومستودعات GitHub وإعادة بناء مشاريع الذكاء الاصطناعي بمعمارية حديثة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

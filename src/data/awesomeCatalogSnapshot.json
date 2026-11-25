@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "starter_ai_agents/autogen_starter",
+    "name": "AutoGen Tool-Calling Starter",
+    "path": "starter_ai_agents/autogen_starter",
+    "description": "Microsoft AutoGen `AssistantAgent` with a custom tool, powered by Nebius Token Factory",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/aws_strands_starter",
+    "name": "AWS Strands Agent Starter",
+    "path": "starter_ai_agents/aws_strands_starter",
+    "description": "Weather report agent using AWS Strands SDK",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/camel_ai_starter",
+    "name": "CAMEL AI Model Benchmark",
+    "path": "starter_ai_agents/camel_ai_starter",
+    "description": "Performance benchmarking tool comparing various AI models",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/coding_harness_starter",
+    "name": "Coding Harness Starter",
+    "path": "starter_ai_agents/coding_harness_starter",
+    "description": "OpenAI Agents SDK coding loop with plan, approval-gated edits, fixed tests, and bounded review, powered by Nebius Token Factory",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/crewai_starter",
+    "name": "CrewAI Research Crew",
+    "path": "starter_ai_agents/crewai_starter",
+    "description": "Multi-agent research team example",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/docker_agent_starter",
+    "name": "Docker Agent Stock Research Team",
+    "path": "starter_ai_agents/docker_agent_starter",
+    "description": "Three-agent stock research team in one YAML file, with Docker Agent on Nebius Token Factory (GLM-5.3 + Nemotron) and MCP tools for web search and Yahoo Finance",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/cagent_starter",
+    "name": "Docker cagent Multi-Agent Starter",
+    "path": "starter_ai_agents/cagent_starter",
+    "description": "Open-source customizable multi-agent runtime by Docker",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/dspy_starter",
+    "name": "DSPy Optimization Starter",
+    "path": "starter_ai_agents/dspy_starter",
+    "description": "DSPy framework for building and optimizing AI systems",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/google_adk_starter",
+    "name": "Google Agent Development Kit Starter",
+    "path": "starter_ai_agents/google_adk_starter",
+    "description": "Google Agent Development Kit starter template",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/agno_starter",
+    "name": "Hacker News Trend Analyst (Agno)",
+    "path": "starter_ai_agents/agno_starter",
+    "description": "Agno-based agent for trend analysis on Hacker News",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/smolagents_starter",
+    "name": "Hugging Face smolagents Starter",
+    "path": "starter_ai_agents/smolagents_starter",
+    "description": "Hugging Face smolagents code-first web-search agent",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/kaos_starter",
+    "name": "KAOS Kubernetes Multi-Agent Starter",
+    "path": "starter_ai_agents/kaos_starter",
+    "description": "Kubernetes-native multi-agent system with MCP tools and in-cluster LLM",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/langchain_starter",
+    "name": "LangChain Tool-Calling Starter",
+    "path": "starter_ai_agents/langchain_starter",
+    "description": "LangChain tool-calling agent with `create_tool_calling_agent` + `AgentExecutor`, powered by Nebius",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/langgraph_starter",
+    "name": "LangGraph ReAct Agent Starter",
+    "path": "starter_ai_agents/langgraph_starter",
+    "description": "LangGraph prebuilt ReAct agent (`create_react_agent`) with custom tools, powered by Nebius",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/letta_starter",
+    "name": "Letta Stateful Memory Agent",
+    "path": "starter_ai_agents/letta_starter",
+    "description": "Stateful agent with persistent long-term memory across sessions",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/llamaindex_starter",
+    "name": "LlamaIndex Task Manager",
+    "path": "starter_ai_agents/llamaindex_starter",
+    "description": "LlamaIndex-powered task assistant",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/mastra_starter",
+    "name": "Mastra Tool-Calling Starter",
+    "path": "starter_ai_agents/mastra_starter",
+    "description": "TypeScript-first agent with a custom tool powered by Nebius Token Factory",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/microsoft_agents_starter",
+    "name": "Microsoft Agent Framework Starter",
+    "path": "starter_ai_agents/microsoft_agents_starter",
+    "description": "Multi-agent travel planning demos built on Microsoft Agent Framework",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/openai_agents_sdk",
+    "name": "OpenAI Agents SDK Starter",
+    "path": "starter_ai_agents/openai_agents_sdk",
+    "description": "OpenAI Agents SDK with email helper and haiku writer examples",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/pydantic_starter",
+    "name": "PydanticAI Weather Bot",
+    "path": "starter_ai_agents/pydantic_starter",
+    "description": "Real-time weather information agent",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/sayna_starter",
+    "name": "Sayna Realtime Voice Agent",
+    "path": "starter_ai_agents/sayna_starter",
+    "description": "Real-time voice infrastructure with multi-provider STT/TTS (Deepgram, ElevenLabs, Azure, Google) and WebSocket streaming",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "starter_ai_agents/semantic_kernel_starter",
+    "name": "Semantic Kernel Starter",
+    "path": "starter_ai_agents/semantic_kernel_starter",
+    "description": "Microsoft Semantic Kernel `ChatCompletionAgent` with plugin-based tool calling",
+    "categoryEn": "Starter Agents",
+    "categoryAr": "وكلاء البداية",
+    "categorySlug": "starter"
+  },
+  {
+    "id": "simple_ai_agents/agno_ai_examples",
+    "name": "Agno Agent Examples",
+    "path": "simple_ai_agents/agno_ai_examples",
+    "description": "Simple to multi-agent examples with web search and a knowledge base",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/agno_ui_agent",
+    "name": "Agno Agent UI",
+    "path": "simple_ai_agents/agno_ui_agent",
+    "description": "Interactive UI for web and finance agents",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/agent_discovery_agent",
+    "name": "AI Agent Registry Explorer",
+    "path": "simple_ai_agents/agent_discovery_agent",
+    "description": "Find and compare AI agents across NANDA, MCP, Virtuals, A2A, and ERC-8004 registries",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/ai_expense_tracker",
+    "name": "AI Expense Tracker",
+    "path": "simple_ai_agents/ai_expense_tracker",
+    "description": "Chat-based expense tracking with Nebius Token Factory and a Postgres backend that agents provision on first run",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/cal_scheduling_agent",
+    "name": "Calendar Assistant",
+    "path": "simple_ai_agents/cal_scheduling_agent",
+    "description": "Calendar scheduling integration with Cal.com",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/llm_router",
+    "name": "Cost-Aware Model Router (RouteLLM)",
+    "path": "simple_ai_agents/llm_router",
+    "description": "Intelligent model routing with RouteLLM (GPT-4o-mini vs Nebius Llama) for cost optimization",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/email_to_calendar_scheduler",
+    "name": "Email-to-Calendar Assistant",
+    "path": "simple_ai_agents/email_to_calendar_scheduler",
+    "description": "AI-powered Gmail reader and Google Calendar manager",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/reasoning_agent",
+    "name": "Financial Reasoning Agent",
+    "path": "simple_ai_agents/reasoning_agent",
+    "description": "Step-by-step financial reasoning demonstration",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/human_in_the_loop_agent",
+    "name": "Human-in-the-Loop Agent",
+    "path": "simple_ai_agents/human_in_the_loop_agent",
+    "description": "HITL actions for safe AI task execution",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/nemo_guardrails_arena",
+    "name": "Jailbreak Arena (NeMo Guardrails)",
+    "path": "simple_ai_agents/nemo_guardrails_arena",
+    "description": "Split-screen demo where an unguarded Nemotron bot and a NeMo Guardrails-protected bot face the same attacks, with a live block/leak scoreboard",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/langchain_simple_agents",
+    "name": "LangChain Operations Agent Collection",
+    "path": "simple_ai_agents/langchain_simple_agents",
+    "description": "Nebius-powered incident response, support, vendor risk, and data quality agents with typed outputs and guarded tools",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/macro_event_brief_agent",
+    "name": "Macro Event Brief Agent",
+    "path": "simple_ai_agents/macro_event_brief_agent",
+    "description": "Scheduled macro releases with last prints, publication times and sources, plus an optional Nebius brief that cites each record",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/mastra_ai_weather_agent",
+    "name": "Mastra Weather Bot",
+    "path": "simple_ai_agents/mastra_ai_weather_agent",
+    "description": "Weather updates using Mastra AI framework",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/talk_to_db",
+    "name": "Natural-Language Database Assistant",
+    "path": "simple_ai_agents/talk_to_db",
+    "description": "Natural language database queries with GibsonAI and LangChain",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/langchain_data_agent_poc",
+    "name": "Natural-Language SQL Agent (LangChain)",
+    "path": "simple_ai_agents/langchain_data_agent_poc",
+    "description": "Natural-language-to-SQL data agent with LangGraph, Nebius, read-only SQL safety, and Streamlit charts",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/nebius_chat",
+    "name": "Nebius Chat",
+    "path": "simple_ai_agents/nebius_chat",
+    "description": "Chat interface for Nebius Token Factory",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/newsletter_agent",
+    "name": "Newsletter Generator",
+    "path": "simple_ai_agents/newsletter_agent",
+    "description": "AI-powered newsletter builder with Firecrawl integration",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/finance_agent",
+    "name": "Stock Market Finance Agent",
+    "path": "simple_ai_agents/finance_agent",
+    "description": "Real-time stock and market data tracking agent",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/stock_portfolio_analyst",
+    "name": "Stock Portfolio Analyst",
+    "path": "simple_ai_agents/stock_portfolio_analyst",
+    "description": "Live portfolio valuation, concentration analysis, risk flags, and rebalancing ideas with Agno",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/nebius_travel_planner",
+    "name": "VoyageCompass Travel Planner",
+    "path": "simple_ai_agents/nebius_travel_planner",
+    "description": "LangChain and Nebius travel planner with weather, research, currency conversion, budgets, and packing tools",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "simple_ai_agents/browser_agent",
+    "name": "Web Automation Agent",
+    "path": "simple_ai_agents/browser_agent",
+    "description": "Browser automation agent using Nebius and browser-use",
+    "categoryEn": "Simple Agents",
+    "categoryAr": "وكلاء المهام البسيطة",
+    "categorySlug": "simple"
+  },
+  {
+    "id": "voice_agents/voice-agent-gradium-nebius-langchain",
+    "name": "AI Pitch Coach (Gradium + Nebius)",
+    "path": "voice_agents/voice-agent-gradium-nebius-langchain",
+    "description": "Conversational pitch coach using Gradium STT/TTS, LangChain orchestration, and Nebius reasoning",
+    "categoryEn": "Voice Agents",
+    "categoryAr": "وكلاء الصوت",
+    "categorySlug": "voice"
+  },
+  {
+    "id": "voice_agents/customer_support_agent",
+    "name": "Customer Support Voice Agent (LiveKit)",
+    "path": "voice_agents/customer_support_agent",
+    "description": "Nebius-powered voice support agent with context-preserving AI manager handoff, noise cancellation, and inactivity handling",
+    "categoryEn": "Voice Agents",
+    "categoryAr": "وكلاء الصوت",
+    "categorySlug": "voice"
+  },
+  {
+    "id": "voice_agents/livekit_gemini_agents",
+    "name": "Gemini Realtime Voice Agent (LiveKit)",
+    "path": "voice_agents/livekit_gemini_agents",
+    "description": "LiveKit Agents with Google Gemini Live (`gemini` multimodal realtime) for low-latency voice conversations in a LiveKit room",
+    "categoryEn": "Voice Agents",
+    "categoryAr": "وكلاء الصوت",
+    "categorySlug": "voice"
+  },
+  {
+    "id": "voice_agents/healthcare_contact_center",
+    "name": "Healthcare Voice Contact Center",
+    "path": "voice_agents/healthcare_contact_center",
+    "description": "Pipecat healthcare contact center with appointment booking, FAQ handling, and supervisor escalation",
+    "categoryEn": "Voice Agents",
+    "categoryAr": "وكلاء الصوت",
+    "categorySlug": "voice"
+  },
+  {
+    "id": "voice_agents/pipecat_agent",
+    "name": "Multilingual Voice Agent (Pipecat + Sarvam)",
+    "path": "voice_agents/pipecat_agent",
+    "description": "Pipecat voice pipeline with Sarvam STT/TTS and OpenAI for chat; WebRTC (browser) or Daily transport via the Pipecat runner",
+    "categoryEn": "Voice Agents",
+    "categoryAr": "وكلاء الصوت",
+    "categorySlug": "voice"
+  },
+  {
+    "id": "voice_agents/livekit_rsvp_agent",
+    "name": "RSVP Confirmation Voice Agent (LiveKit)",
+    "path": "voice_agents/livekit_rsvp_agent",
+    "description": "Outbound voice agent that calls attendees, confirms RSVPs, and updates a JSON-backed event database",
+    "categoryEn": "Voice Agents",
+    "categoryAr": "وكلاء الصوت",
+    "categorySlug": "voice"
+  },
+  {
+    "id": "voice_agents/speed_to_lead_agent",
+    "name": "Speed-to-Lead Sales Voice Agent",
+    "path": "voice_agents/speed_to_lead_agent",
+    "description": "LiveKit-based voice agent that calls inbound leads instantly, routes them to specialists, and logs to a mock CRM",
+    "categoryEn": "Voice Agents",
+    "categoryAr": "وكلاء الصوت",
+    "categorySlug": "voice"
+  },
+  {
+    "id": "voice_agents/Cursor_code_editor",
+    "name": "VoxCode: Deepgram + Cursor Voice Coding Agent",
+    "path": "voice_agents/Cursor_code_editor",
+    "description": "Local voice workspace for codebase summaries and architecture Q&A; Deepgram Voice Agent orchestration, Nebius reasoning, and optional Cursor SDK file inspection and edits",
+    "categoryEn": "Voice Agents",
+    "categoryAr": "وكلاء الصوت",
+    "categorySlug": "voice"
+  },
+  {
+    "id": "voice_agents/livekit_web_search_agent",
+    "name": "Web-Search Voice Agent (LiveKit)",
+    "path": "voice_agents/livekit_web_search_agent",
+    "description": "LiveKit + Gemini realtime voice agent with an Olostep-backed `web_search` tool for fresh, source-cited answers",
+    "categoryEn": "Voice Agents",
+    "categoryAr": "وكلاء الصوت",
+    "categorySlug": "voice"
+  },
+  {
+    "id": "mcp_ai_agents/langchain_langgraph_mcp_agent",
+    "name": "Couchbase LangGraph MCP Agent",
+    "path": "mcp_ai_agents/langchain_langgraph_mcp_agent",
+    "description": "LangChain ReAct agent with Couchbase integration",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/couchbase_mcp_server",
+    "name": "Couchbase MCP Server",
+    "path": "mcp_ai_agents/couchbase_mcp_server",
+    "description": "Couchbase database integration with MCP protocol",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/custom_mcp_server",
+    "name": "Custom MCP Server Starter",
+    "path": "mcp_ai_agents/custom_mcp_server",
+    "description": "Custom MCP server implementation example",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/docs_qna_agent",
+    "name": "Documentation Q&A MCP Agent",
+    "path": "mcp_ai_agents/docs_qna_agent",
+    "description": "Documentation Q&A agent with MCP",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/doc_mcp",
+    "name": "Documentation RAG MCP Server",
+    "path": "mcp_ai_agents/doc_mcp",
+    "description": "Semantic RAG documentation and Q&A system",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/database_mcp_agent",
+    "name": "GibsonAI Database MCP Agent",
+    "path": "mcp_ai_agents/database_mcp_agent",
+    "description": "Conversational AI agent for managing GibsonAI database projects and schemas",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/github_mcp_agent",
+    "name": "GitHub MCP Agent",
+    "path": "mcp_ai_agents/github_mcp_agent",
+    "description": "Repository insights and analysis via MCP",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/mcp_starter",
+    "name": "GitHub MCP Agent Starter",
+    "path": "mcp_ai_agents/mcp_starter",
+    "description": "GitHub repository analyzer starter template",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/hotel_finder_agent",
+    "name": "Hotel Finder Agent",
+    "path": "mcp_ai_agents/hotel_finder_agent",
+    "description": "Hotel search and booking using MCP integration",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/e2b_docker_mcp_agent",
+    "name": "Sandboxed Code Execution MCP Agent (Docker + E2B)",
+    "path": "mcp_ai_agents/e2b_docker_mcp_agent",
+    "description": "Secure AI agent for running agents in sandboxed Docker environments via MCP Gateway",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/mcp_toolbox_security_agent",
+    "name": "Secure Database MCP Agent (MCP Toolbox)",
+    "path": "mcp_ai_agents/mcp_toolbox_security_agent",
+    "description": "Secure ecommerce agent over PostgreSQL and MongoDB; MCP Toolbox enforces per-user data access, least-privilege roles, and authorized tools",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/scalekit-exa-mcp-security",
+    "name": "Secure MCP Access Agent (ScaleKit + Exa)",
+    "path": "mcp_ai_agents/scalekit-exa-mcp-security",
+    "description": "Security-focused MCP integration with Exa search",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/telemetry-mcp-okahu",
+    "name": "Self-Healing Text-to-SQL Agent (Okahu)",
+    "path": "mcp_ai_agents/telemetry-mcp-okahu",
+    "description": "Self-healing Text-to-SQL demo using Okahu Cloud traces via hosted MCP",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "mcp_ai_agents/taskade_mcp_agent",
+    "name": "Taskade MCP Agent",
+    "path": "mcp_ai_agents/taskade_mcp_agent",
+    "description": "AI-powered workspace agent for managing projects, tasks, and workflows via Taskade MCP",
+    "categoryEn": "MCP Agents",
+    "categoryAr": "خوادم ووكلاء MCP",
+    "categorySlug": "mcp"
+  },
+  {
+    "id": "memory_agents/ai_consultant_agent",
+    "name": "AI Research Consultant with Long-Term Memory",
+    "path": "memory_agents/ai_consultant_agent",
+    "description": "AI-powered consulting agent using **Memori v3** as a long-term memory fabric and **ExaAI** for research",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/arxiv_researcher_agent_with_memori",
+    "name": "arXiv Researcher Agent with Memori",
+    "path": "memory_agents/arxiv_researcher_agent_with_memori",
+    "description": "Research assistant using OpenAI Agents and GibsonAI Memori",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/aws_strands_agent_with_memori",
+    "name": "AWS Strands Persistent Memory Agent",
+    "path": "memory_agents/aws_strands_agent_with_memori",
+    "description": "AWS Strands agent enhanced with the Memori memory system",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/blog_writing_agent",
+    "name": "Blog Writing Agent",
+    "path": "memory_agents/blog_writing_agent",
+    "description": "Personalized blog writing agent with memory for style consistency",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/brand_reputation_monitor",
+    "name": "Brand Reputation Monitor",
+    "path": "memory_agents/brand_reputation_monitor",
+    "description": "AI-powered brand reputation monitoring with news analysis and sentiment tracking",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/customer_support_voice_agent",
+    "name": "Customer Support Voice Agent",
+    "path": "memory_agents/customer_support_voice_agent",
+    "description": "Voice-enabled customer support assistant with Memori v3 and Firecrawl for knowledge base management",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/engineering_content_agent",
+    "name": "Engineering Content Agent",
+    "path": "memory_agents/engineering_content_agent",
+    "description": "Chat-first Agno app that turns HN demand, DEV.to supply gaps, and Weaviate Engram memory into a developer trend digest plus DevRel talk and blog ideation via Nebius",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/job_search_agent",
+    "name": "Job Search Agent",
+    "path": "memory_agents/job_search_agent",
+    "description": "Job search agent with memory for preference tracking",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/agno_memory_agent",
+    "name": "Persistent Memory Agent (Agno)",
+    "path": "memory_agents/agno_memory_agent",
+    "description": "Agno-based agent with persistent memory capabilities",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/product_launch_agent",
+    "name": "Product Launch Agent",
+    "path": "memory_agents/product_launch_agent",
+    "description": "Competitive intelligence tool for analyzing competitor product launches",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/social_media_agent",
+    "name": "Social Media Agent",
+    "path": "memory_agents/social_media_agent",
+    "description": "Social media automation agent with memory for brand voice",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/study_coach_agent",
+    "name": "Study Coach Agent",
+    "path": "memory_agents/study_coach_agent",
+    "description": "AI-powered study coach with Memori v3 and LangGraph for multi-step verification of understanding",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "memory_agents/youtube_trend_agent",
+    "name": "YouTube Trend Agent",
+    "path": "memory_agents/youtube_trend_agent",
+    "description": "YouTube channel analysis agent with Memori, Agno, and Exa for trend analysis and video ideas",
+    "categoryEn": "Memory Agents",
+    "categoryAr": "وكلاء الذاكرة",
+    "categorySlug": "memory"
+  },
+  {
+    "id": "rag_apps/agentic_rag",
+    "name": "Agentic RAG with Agno and GPT-5",
+    "path": "rag_apps/agentic_rag",
+    "description": "Agentic RAG implementation with Agno and GPT-5",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/agentic_typed_rag_llamaindex",
+    "name": "Agentic Typed RAG with LlamaIndex",
+    "path": "rag_apps/agentic_typed_rag_llamaindex",
+    "description": "Typed, citation-verified RAG with structured answers, local document parsing, and deterministic refusal for weak evidence",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/chat_with_code",
+    "name": "Codebase Q&A RAG",
+    "path": "rag_apps/chat_with_code",
+    "description": "Conversational code explorer and documentation assistant",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/contextual_ai_rag",
+    "name": "Enterprise Contextual RAG",
+    "path": "rag_apps/contextual_ai_rag",
+    "description": "Enterprise-level RAG with managed datastores and quality evaluation",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/gemma_ocr",
+    "name": "Gemma 3 Document OCR",
+    "path": "rag_apps/gemma_ocr",
+    "description": "OCR-based document and image processor using the Gemma 3 model",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/graphrag_neo4j",
+    "name": "GraphRAG with Neo4j",
+    "path": "rag_apps/graphrag_neo4j",
+    "description": "Knowledge graph extraction and Cypher-backed retrieval with Neo4j and Nebius",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/liteparse_invoice_auditor",
+    "name": "LiteParse Invoice & Receipt Auditor",
+    "path": "rag_apps/liteparse_invoice_auditor",
+    "description": "Local OCR with LiteParse bounding boxes, Nebius LLM audit for math errors and duplicate charges, evidence pinning on scans, and an LLM batch summary",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/llamaIndex_starter",
+    "name": "LlamaIndex RAG Starter",
+    "path": "rag_apps/llamaIndex_starter",
+    "description": "LlamaIndex and Nebius RAG starter template",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/wfgy_llm_debugger",
+    "name": "LLM and RAG Debugger (WFGY 16-Problem Map)",
+    "path": "rag_apps/wfgy_llm_debugger",
+    "description": "16-mode map-based debugger for LLM and RAG bugs",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/pdf_rag_analyser",
+    "name": "Multi-PDF RAG Analyzer",
+    "path": "rag_apps/pdf_rag_analyser",
+    "description": "Multi-PDF chat and analysis system",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/simple_rag",
+    "name": "Nebius RAG Starter",
+    "path": "rag_apps/simple_rag",
+    "description": "Basic RAG implementation with Nebius for quick starts",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/nvidia_ocr",
+    "name": "NVIDIA Nemotron Document OCR",
+    "path": "rag_apps/nvidia_ocr",
+    "description": "OCR-based document and image parsing using NVIDIA Nemotron-Nano-V2-12b",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/advanced_rag_with_reranking",
+    "name": "Production PDF RAG with Reranking",
+    "path": "rag_apps/advanced_rag_with_reranking",
+    "description": "Production-shaped PDF RAG with contextual retrieval, Qdrant hybrid search, reranking, streaming answers, upload ingestion, and clickable citations",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/qwen3_rag",
+    "name": "Qwen3 PDF RAG Chat",
+    "path": "rag_apps/qwen3_rag",
+    "description": "PDF chatbot interface built with Streamlit",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/resume_optimizer",
+    "name": "Resume Optimizer",
+    "path": "rag_apps/resume_optimizer",
+    "description": "AI-powered resume optimization and enhancement tool",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/trustworthy_rag",
+    "name": "Trustworthy RAG",
+    "path": "rag_apps/trustworthy_rag",
+    "description": "Citation verification, per-claim evidence checks, and hallucination scoring for RAG answers",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/video_rag",
+    "name": "Video Q&A with Timestamp Citations",
+    "path": "rag_apps/video_rag",
+    "description": "Multimodal video retrieval with Gemini embeddings, Weaviate, Nebius, and clickable timestamp citations",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "rag_apps/agentic_rag_with_web_search",
+    "name": "Web-Augmented Agentic RAG",
+    "path": "rag_apps/agentic_rag_with_web_search",
+    "description": "Advanced RAG with CrewAI, Qdrant, and Exa for hybrid search capabilities",
+    "categoryEn": "RAG Applications",
+    "categoryAr": "تطبيقات البحث المعزز (RAG)",
+    "categorySlug": "rag"
+  },
+  {
+    "id": "advance_ai_agents/ai-hedgefund",
+    "name": "AI Hedge Fund Research Team",
+    "path": "advance_ai_agents/ai-hedgefund",
+    "description": "Agentic workflow for comprehensive financial analysis",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/trend_analyzer_agent",
+    "name": "AI Trend Research Agent",
+    "path": "advance_ai_agents/trend_analyzer_agent",
+    "description": "AI trend mining and analysis with Google ADK",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/candidate_analyser",
+    "name": "Candidate Profile Analyzer (Candilyzer)",
+    "path": "advance_ai_agents/candidate_analyser",
+    "description": "Candidate analysis tool for GitHub and LinkedIn profiles",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/car_finder_agent",
+    "name": "Car Finder Agent",
+    "path": "advance_ai_agents/car_finder_agent",
+    "description": "AI-powered used car recommendation system with CrewAI and MongoDB",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/clinical_early_warning_agent",
+    "name": "Clinical Early-Warning Agent",
+    "path": "advance_ai_agents/clinical_early_warning_agent",
+    "description": "Nebius Token Factory tool-calling agent that spots patient deterioration with NEWS2, qSOFA, personal baselines and trends",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/conference_agnositc_cfp_generator",
+    "name": "Conference Proposal Generator",
+    "path": "advance_ai_agents/conference_agnositc_cfp_generator",
+    "description": "Automated conference proposal generation system",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/conference_talk_abstract_generator",
+    "name": "Conference Talk Abstract Generator",
+    "path": "advance_ai_agents/conference_talk_abstract_generator",
+    "description": "Automated talk abstract generation with Google ADK and Couchbase",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/paralegal_crew",
+    "name": "Contract Review Crew (Paralegal)",
+    "path": "advance_ai_agents/paralegal_crew",
+    "description": "CrewAI contract review workflow for clause extraction, risk analysis, and recommended redlines",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/cosmos_arena_debate_council",
+    "name": "Cosmos Arena Debate Council",
+    "path": "advance_ai_agents/cosmos_arena_debate_council",
+    "description": "Multi-agent debate council built with LangGraph and the NVIDIA Cosmos reasoning model via Nebius Token Factory",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/customer_support_resolution_agent",
+    "name": "Customer Support Resolution Agent",
+    "path": "advance_ai_agents/customer_support_resolution_agent",
+    "description": "LangChain and Nebius support agent with knowledge-base retrieval, order lookup, and human ticket escalation",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/deep_research_writing_agents_nebius_okahu",
+    "name": "Deep Research + Writing Agents Workshop",
+    "path": "advance_ai_agents/deep_research_writing_agents_nebius_okahu",
+    "description": "Nebius-powered LangChain MCP workshop with Exa research, Gemini image generation, and Okahu/Monocle eval observability",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/deep_researcher_agent",
+    "name": "Deep Research Workflow",
+    "path": "advance_ai_agents/deep_researcher_agent",
+    "description": "Multi-stage research agent with Agno and ScrapeGraph AI",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/due_diligence_agent",
+    "name": "Due Diligence Agent",
+    "path": "advance_ai_agents/due_diligence_agent",
+    "description": "Multi-agent company due diligence pipeline with AG2 and TinyFish deep web scraping",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/financial_document_os",
+    "name": "Financial Document OS",
+    "path": "advance_ai_agents/financial_document_os",
+    "description": "Turns financial PDFs into an editable relational database with source-level citations",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/finance_service_agent",
+    "name": "Financial Market Data Service",
+    "path": "advance_ai_agents/finance_service_agent",
+    "description": "FastAPI server for stock data and predictions with Agno",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/agentfield_finance_research_agent",
+    "name": "Financial Research Agent (AgentField)",
+    "path": "advance_ai_agents/agentfield_finance_research_agent",
+    "description": "Financial research agent with AgentField",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/job_finder_agent",
+    "name": "GitHub and LinkedIn Job Finder",
+    "path": "advance_ai_agents/job_finder_agent",
+    "description": "LinkedIn job search automation with Bright Data integration",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/circuit_sketch_to_simulation",
+    "name": "Inkwire: Circuit Sketch → Live Simulation",
+    "path": "advance_ai_agents/circuit_sketch_to_simulation",
+    "description": "Inkling 2 Small on [Nebius Token Factory](https://dub.sh/nebius) turns a photo of a hand-drawn circuit into a working interactive simulation, finds the mistakes, reviews screenshots of its own page, and a circuit solver checks every number",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/jev_social_research_agent",
+    "name": "Jev Social Research Agent",
+    "path": "advance_ai_agents/jev_social_research_agent",
+    "description": "Typed Jev routing, local socai CLI evidence, and evidence-linked Nebius synthesis for Instagram, TikTok, and LinkedIn research",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/coding_harness_agent",
+    "name": "Local File-Editing Agent Prototype",
+    "path": "advance_ai_agents/coding_harness_agent",
+    "description": "Local coding-agent prototype with file discovery, reading, and editing tools",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/maintainer_brief",
+    "name": "Maintainer Intelligence Brief",
+    "path": "advance_ai_agents/maintainer_brief",
+    "description": "Weekly open-source intelligence briefs from community, security, and document signals with source citations",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/meeting_assistant_agent",
+    "name": "Meeting Assistant Agent",
+    "path": "advance_ai_agents/meeting_assistant_agent",
+    "description": "Automated meeting notes and task creation from conversations",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/coding_agent_harness",
+    "name": "Multi-Agent Coding Harness",
+    "path": "advance_ai_agents/coding_agent_harness",
+    "description": "Deep LangGraph coding crew with planning, repository exploration, human-gated file edits, and E2B-sandboxed test loops",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/multi_agent_orchestrator",
+    "name": "Multi-Agent Orchestrator",
+    "path": "advance_ai_agents/multi_agent_orchestrator",
+    "description": "LangGraph orchestrator-worker multi-agent system where Kimi K3.1 Pro plans, reviews and synthesizes while Inkling 2 Small and cheaper models on [Nebius Token Factory](https://dub.sh/nebius) work in parallel, with a live cost ledger",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/napkin_to_3d_print",
+    "name": "Napkin → 3D Print",
+    "path": "advance_ai_agents/napkin_to_3d_print",
+    "description": "Kimi K3.1 Pro on [Nebius Token Factory](https://dub.sh/nebius) turns a photo of a hand sketch into parametric CadQuery, checks its own render against the drawing, and exports a printable STL with live dimension sliders",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/nebius-autoresearch-autoresearch-mar30",
+    "name": "Nebius Autonomous Pipeline Optimizer",
+    "path": "advance_ai_agents/nebius-autoresearch-autoresearch-mar30",
+    "description": "NYC taxi analytics pipeline optimizer with iterative code search using real-time or batch Nebius Token Factory inference",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/paper_to_interactive_explainer",
+    "name": "Paper → Interactive Explainer",
+    "path": "advance_ai_agents/paper_to_interactive_explainer",
+    "description": "Kimi K3.1 Pro on Nebius reads a whole research paper, figures included, and builds a self-tested, Distill-style interactive explainer as a single HTML page",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/meeting_briefing_agent",
+    "name": "Pre-Meeting Intel Agent (Briefing Room)",
+    "path": "advance_ai_agents/meeting_briefing_agent",
+    "description": "LangGraph plan-research-reflect loop with Tavily web search that turns a company name into a cited one-page meeting brief",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/price_monitoring_agent",
+    "name": "Price Monitoring Agent",
+    "path": "advance_ai_agents/price_monitoring_agent",
+    "description": "Price monitoring and alerting agent powered by CrewAI, Twilio, and Nebius",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/proactive_oncall_agent",
+    "name": "Proactive On-Call Agent",
+    "path": "advance_ai_agents/proactive_oncall_agent",
+    "description": "LangChain proactive agent on Kimi K3.1 Pro via [Nebius Token Factory](https://dub.sh/nebius) that a cron server wakes to triage events; it pages you, requests human-approved rollbacks, and schedules its own follow-ups without ever being prompted",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/context_engineering_pipeline",
+    "name": "Prompt Format Benchmark",
+    "path": "advance_ai_agents/context_engineering_pipeline",
+    "description": "Benchmark harness for comparing XML, JSON, and Markdown prompt formats across accuracy, latency, and token usage",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/pydantic_game_agent",
+    "name": "Sandboxed Browser Game Generator",
+    "path": "advance_ai_agents/pydantic_game_agent",
+    "description": "FastAPI multi-agent studio that generates sandboxed browser games from one prompt using Pydantic AI and GLM-5.2 on Nebius",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/content_team_agent",
+    "name": "SEO Content Strategy Team",
+    "path": "advance_ai_agents/content_team_agent",
+    "description": "SEO content optimization workflow with Agno and SerpAPI for Google AI Search ranking",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/shark_tank_agent",
+    "name": "Shark Tank Pitch Practice Agent",
+    "path": "advance_ai_agents/shark_tank_agent",
+    "description": "Interactive 3D Shark Tank room with three Nebius-backed Mastra investor sharks, round-based Q&A, deal memos, and SQLite report history",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/coding_model_arena",
+    "name": "Software Engineering Model Arena",
+    "path": "advance_ai_agents/coding_model_arena",
+    "description": "[Nebius Token Factory](https://dub.sh/nebius) benchmark for two coding models with seven curated challenges, weighted local hidden tests, partial-credit scoring, and an independent judge",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/smart_gtm_agent",
+    "name": "Startup Go-to-Market Strategy Agent",
+    "path": "advance_ai_agents/smart_gtm_agent",
+    "description": "Go-to-market strategy and competitive analysis agent",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/startup_idea_validator_agent",
+    "name": "Startup Idea Validator Agent",
+    "path": "advance_ai_agents/startup_idea_validator_agent",
+    "description": "Agentic workflow to validate and analyze startup ideas",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/temporal_agents",
+    "name": "Temporal Agents",
+    "path": "advance_ai_agents/temporal_agents",
+    "description": "Examples of Temporal-based AI agents",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/temporal_agents/temporal_okahu_agent/temporal-tx-agent-eval",
+    "name": "Temporal Transaction Agent Evaluation (Okahu + Monocle)",
+    "path": "advance_ai_agents/temporal_agents/temporal_okahu_agent/temporal-tx-agent-eval",
+    "description": "Evaluation and regression loop for a Temporal fraud-processing agent, using OpenTelemetry traces, deterministic checks, and LLM-graded Okahu evaluations",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/web_intelligence_agent",
+    "name": "Web Intelligence Agent",
+    "path": "advance_ai_agents/web_intelligence_agent",
+    "description": "Mastra multi-agent pipeline that turns Olostep web evidence into Nemotron-verified case studies with SQLite persistence and a Velt audit trail",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "advance_ai_agents/flowsentinal_audittrail",
+    "name": "Workflow Audit Trail (FlowSentinel)",
+    "path": "advance_ai_agents/flowsentinal_audittrail",
+    "description": "Next.js workflow command center with Nebius Nemotron reasoning, n8n orchestration, Velt activity logs, and optional Tailscale Funnel exposure",
+    "categoryEn": "Advanced Agents",
+    "categoryAr": "الوكلاء المتقدمون",
+    "categorySlug": "advanced"
+  },
+  {
+    "id": "fine_tuning/customer_support_datalab",
+    "name": "Customer Support Fine-Tuning with Data Lab",
+    "path": "fine_tuning/customer_support_datalab",
+    "description": "Teacher-student distillation workflow to generate support data, curate it in Data Lab, fine-tune, and deploy",
+    "categoryEn": "Fine-Tuning",
+    "categoryAr": "الضبط الدقيق (Fine-Tuning)",
+    "categorySlug": "finetuning"
+  },
+  {
+    "id": "fine_tuning/insurance_claims_finetuning",
+    "name": "Insurance Claims Fine-Tuning",
+    "path": "fine_tuning/insurance_claims_finetuning",
+    "description": "Data Lab, LoRA fine-tuning, and a Gradio comparison app for insurance claims",
+    "categoryEn": "Fine-Tuning",
+    "categoryAr": "الضبط الدقيق (Fine-Tuning)",
+    "categorySlug": "finetuning"
+  },
+  {
+    "id": "fine_tuning/legal-tech-fine-tuning-nebius-cloud",
+    "name": "Legal Tech Fine-Tuning (Self-Hosted)",
+    "path": "fine_tuning/legal-tech-fine-tuning-nebius-cloud",
+    "description": "Fine-tunes Gemma on UK legislation with LoRA, serves with vLLM, and exposes a FastAPI layer",
+    "categoryEn": "Fine-Tuning",
+    "categoryAr": "الضبط الدقيق (Fine-Tuning)",
+    "categorySlug": "finetuning"
+  },
+  {
+    "id": "fine_tuning/legal-tech-fine-tuning-token-factory",
+    "name": "Legal Tech Fine-Tuning (Token Factory)",
+    "path": "fine_tuning/legal-tech-fine-tuning-token-factory",
+    "description": "Managed LoRA fine-tuning on Nebius Token Factory with private model deployment",
+    "categoryEn": "Fine-Tuning",
+    "categoryAr": "الضبط الدقيق (Fine-Tuning)",
+    "categorySlug": "finetuning"
+  },
+  {
+    "id": "fine_tuning/open_source_llms_token_factory",
+    "name": "Open-Source LLM Fine-Tuning on Token Factory",
+    "path": "fine_tuning/open_source_llms_token_factory",
+    "description": "Colab-first LoRA fine-tuning walkthrough to upload a dataset, train, monitor, and deploy",
+    "categoryEn": "Fine-Tuning",
+    "categoryAr": "الضبط الدقيق (Fine-Tuning)",
+    "categorySlug": "finetuning"
+  },
+  {
+    "id": "fine_tuning/customer_support_standalone_colab",
+    "name": "Standalone Customer Support Fine-Tuning (Colab)",
+    "path": "fine_tuning/customer_support_standalone_colab",
+    "description": "Fully standalone Colab notebook for the customer-support distillation and fine-tuning flow",
+    "categoryEn": "Fine-Tuning",
+    "categoryAr": "الضبط الدقيق (Fine-Tuning)",
+    "categorySlug": "finetuning"
+  }
+]
